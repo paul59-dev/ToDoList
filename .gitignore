@@ -21,6 +21,7 @@
 # Fichiers de configuration spécifiques à l'utilisateur
 .settings/
 .DS_Store
+.metadata/
 
 # Fichiers de dépendances compilées
 /lib/
