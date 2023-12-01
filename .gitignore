@@ -1,0 +1,27 @@
+# Dossiers de sortie de compilation
+/bin/
+/target/
+/out/
+
+# Fichiers spécifiques à l'environnement de développement
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+
+# Fichiers temporaires et de sauvegarde
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Fichiers de configuration spécifiques à l'utilisateur
+.settings/
+.DS_Store
+
+# Fichiers de dépendances compilées
+/lib/
+/build/
